@@ -1,1 +1,1 @@
-You have to use vosk, it extract the file and use it.
+"You have to use Vosk to process the audio file, extract the speech content, and then utilize the extracted text for further analysis or processing."
