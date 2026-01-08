@@ -1,0 +1,1 @@
+You have to use vosk, it extract the file and use it.

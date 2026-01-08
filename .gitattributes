@@ -1,0 +1,2 @@
+Development[[:space:]]of[[:space:]]a[[:space:]]Basic[[:space:]]AI[[:space:]]Robot/vosk-model-en-us-0.22.zip filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
